@@ -5,4 +5,6 @@
  * 4. npm install firebase
  * 5. create firebase.init.js and .env.local
  * 6. npm install react-bootstrap bootstrap and bootsrap css added
+ * 7. npm install react-router-dom@6
+ * 8. npm install --save react-firebase-hooks
  */
