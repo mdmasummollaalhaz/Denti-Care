@@ -7,4 +7,5 @@
  * 6. npm install react-bootstrap bootstrap and bootsrap css added
  * 7. npm install react-router-dom@6
  * 8. npm install --save react-firebase-hooks
+ * 9. npm install --save react-toastify
  */
