@@ -1,0 +1,20 @@
+.service{
+    border: 1px solid #0e54ae;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    overflow: hidden;
+}
+.book{
+    background-color: #0e54ae;
+    color: #fff;
+    padding: 10px 10px;
+    margin: 20px 0px;
+    border: 0px;
+    border-radius: 3px;
+
+}
+.details{
+    padding: 0px 10px;
+    margin-top: 15px;
+}

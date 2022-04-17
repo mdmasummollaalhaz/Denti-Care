@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Dental Services",
+        "price": "200 USD",
+        "description": "Globally harness multimedia based collaboration and idea haring with backend products.",
+        "img": "https://i.ibb.co/YLmhWB4/service1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dental Implants",
+        "price": "160 USD",
+        "description": "Dramatically disseminate standardized metrics after resource-leveling processes.",
+        "img": "https://i.ibb.co/8rY0Dhg/service4.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Surgery",
+        "price": "600 USD",
+        "description": "Proactively fabricate one-to-one materials via effective e-business services processes",
+        "img": "https://i.ibb.co/pvVGJHK/service3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Teeth Whitening",
+        "price": "350 USD",
+        "description": "Distinctively re-engineer revolutionary meta-services and premium architectures.",
+        "img": "https://i.ibb.co/QHYfVkH/service2.jpg"
+    }
+]

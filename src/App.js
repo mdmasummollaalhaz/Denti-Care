@@ -6,6 +6,8 @@ import Header from './Pages/Shared/Header/Header';
 import Footer from './Pages/Shared/Footer/Footer';
 import Login from './Pages/Login/Login/Login';
 import Register from './Pages/Login/Register/Register';
+import ServiceDetail from './Pages/ServiceDetail/ServiceDetail';
+import Checkout from './Pages/Checkout/Checkout';
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
         <Route path="/about" element={<About/>}></Route>
         <Route path="/login" element={<Login/>}></Route>
         <Route path="/register" element={<Register/>}></Route>
+        <Route path="/service/:serviceId" element={<ServiceDetail></ServiceDetail>}></Route>
+        <Route path="/checkout" element={<Checkout></Checkout>}></Route>
       </Routes>
       <Footer></Footer>
     </div>
