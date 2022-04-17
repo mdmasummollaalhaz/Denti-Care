@@ -1,11 +1,12 @@
 import React from 'react';
-import './Footer.css';
-
+import './Footer.css'
 const Footer = () => {
+    const today = new Date();
+    const year = today.getFullYear();
     return (
-        <div>
-            <p>Copyright @ Danti Care 2020</p>
-        </div>
+        <footer>
+            <p><small>copyright© 2018-{year}</small></p>
+        </footer>
     );
 };
 
