@@ -1,0 +1,20 @@
+.serviceDetails{
+    text-align: center;
+    box-shadow: 1px 1px 20px -8px #0e54ae;
+    padding: 100px 0px;
+    margin-top: 60px;
+    width: 100%;
+    border-radius: 10px;
+}
+.serviceDetails .img{
+    width: 60%;
+}
+.serviceDetails .details{
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0px 100px;
+}

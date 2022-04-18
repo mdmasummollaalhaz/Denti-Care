@@ -1,0 +1,10 @@
+.radioBtn{
+    display: flex;
+    align-items: center;
+}
+.radioBtn input{
+width: 12%!important;
+height: 20px!important;
+font-size: 10px;
+margin-bottom: 0px!important;
+}
