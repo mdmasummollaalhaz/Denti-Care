@@ -21,3 +21,6 @@ Live website [Denti Care](https://denti-care-b5058.web.app/)
 16. Home, login & register, terms
 17. Home, terms, about page ->responsive
 18. firebase deploy
+19. Blog added
+20. Final firebase deploy
+21. Project DONE
