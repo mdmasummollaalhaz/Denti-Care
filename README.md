@@ -1,6 +1,6 @@
-# Project URL
+# Denti Care
 
-Denti Care website [Denti Care](https://)
+Live website [Denti Care](https://denti-care-b5058.web.app/)
 
 ## Project steps
 1. Init push at github
@@ -20,3 +20,4 @@ Denti Care website [Denti Care](https://)
 15. Terms & Blog page create
 16. Home, login & register, terms
 17. Home, terms, about page ->responsive
+18. firebase deploy
