@@ -1,0 +1,52 @@
+.about-box{
+    box-shadow: 1px 1px 20px -8px #0e54ae;
+    padding: 100px 30px;
+    width: 100%;
+    background-repeat:no-repeat;
+    height:450px;
+    background-size:cover;
+    background-position: center;
+    margin: 0px;
+}
+.about-para-box{
+    box-shadow: 1px 1px 20px -8px #0e54ae;
+    padding: 30px 50px;
+    margin: 0px 200px;
+    border-radius: 0px;
+}
+.about-title{
+    text-align: center;
+    margin-top: 100px;
+    color: #0e54ae;
+    font-size: 60px;
+    font-weight: 700;
+}
+.about-paragraph{
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: justify;
+
+}
+
+/* =======================
+** Responsive
+======================== */
+@media only screen and (max-width: 576px) {
+    .about-box{
+        padding: 50px 20px;
+    }
+    .about-para-box{
+        padding: 30px 30px;
+        margin: 0px;
+    }
+  }
+  @media only screen and (min-width: 577px) and (max-width: 992px) {
+    .about-box{
+        padding: 50px 20px;
+    }
+    .about-para-box{
+        padding: 30px 30px;
+        margin: 0px;
+    }
+  }

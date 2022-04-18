@@ -12,4 +12,11 @@ Denti Care website [Denti Care](https://)
 7. npm install react-router-dom@6
 8. npm install --save react-firebase-hooks
 9. npm install --save react-toastify
-10. 
+10. Home, Slider, Our services and Service Details, About
+11. Email, Google, Github -> Firebase
+12. Login, Register, Social login (Reset password)
+13. Require Auth
+14. Loading, Toast
+15. Terms & Blog page create
+16. Home, login & register, terms
+17. Home, terms, about page ->responsive

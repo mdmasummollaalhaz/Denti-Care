@@ -1,0 +1,28 @@
+.blogs{
+    box-shadow: 1px 1px 20px -8px #0e54ae;
+    padding: 100px 100px;
+    margin-top: 60px;
+    width: 70%;
+    border-radius: 10px;
+}
+
+
+/* =======================
+** Responsive
+======================== */
+@media only screen and (max-width: 576px) {
+    .blogs{
+        padding: 50px 20px;
+        margin-top: 60px;
+        width: 90%;
+        border-radius: 10px;
+    }
+  }
+  @media only screen and (min-width: 577px) and (max-width: 992px) {
+    .blogs{
+        padding: 50px 60px;
+        margin-top: 60px;
+        width: 80%;
+        border-radius: 10px;
+    }
+  }
